@@ -25,3 +25,4 @@ aylık ve altyapı olarak satışa çıkarıyorumdur bilginize.
 | Aktif | <img alt="image" src= "https://cdn.discordapp.com/attachments/1249740660127567892/1277655571062984714/image.png?ex=66cdf4f9&is=66cca379&hm=9459339ed4da9e024d9f3365545af0e886b44226b6b35a6a4d46f915770a1172&"> |
 | ip | <img alt="image" src="https://cdn.discordapp.com/attachments/1249740660127567892/1277655571062984714/image.png?ex=66cdf4f9&is=66cca379&hm=9459339ed4da9e024d9f3365545af0e886b44226b6b35a6a4d46f915770a1172&"> |
 </details>
+<details>
