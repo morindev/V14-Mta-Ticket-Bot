@@ -22,8 +22,9 @@ aylık ve altyapı olarak satışa çıkarıyorumdur bilginize.
 <details>
   <summary>Komut</summary>
 
-| Komut                  | Resim                                                                                                  |
+| Komut + Sistem                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
 | Aktif | <img alt="image" src= "https://cdn.discordapp.com/attachments/1249740660127567892/1277655571062984714/image.png?ex=66cdf4f9&is=66cca379&hm=9459339ed4da9e024d9f3365545af0e886b44226b6b35a6a4d46f915770a1172&"> |
 | ip | <img alt="image" src="https://cdn.discordapp.com/attachments/1249740660127567892/1277656525703217153/image.png?ex=66cdf5dd&is=66cca45d&hm=b287d154ad377979d95bdc70ceffed63cf9c3c48c79d0ec6722a17de2e4a2037&"> |
+| Durum | <img alt="image" src="https://cdn.discordapp.com/attachments/1249740660127567892/1277660273615962225/image.png?ex=66cdf95b&is=66cca7db&hm=c129ac4ce0f517fa40404849d14d02369b1dd661ecdd57c7c5688428ec28c439&"> |
 </details>
