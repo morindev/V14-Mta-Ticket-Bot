@@ -20,7 +20,7 @@ aylık ve altyapı olarak satışa çıkarıyorumdur bilginize.
 | Transcript Log | <img alt="image" src="https://cdn.discordapp.com/attachments/1249740660127567892/1277656948266762393/image.png?ex=66cdf642&is=66cca4c2&hm=92852a3d8bb6af8b3ad3698389521e5b4b678b06529905df743ab3e5153b71c0&"> |
 </details>
 <details>
-  <summary>Komut</summary>
+  <summary>Komut + Sistem</summary>
 
 | Komut + Sistem                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
