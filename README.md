@@ -25,5 +25,5 @@ aylık ve altyapı olarak satışa çıkarıyorumdur bilginize.
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
 | Aktif | <img alt="image" src= "https://cdn.discordapp.com/attachments/1249740660127567892/1277655571062984714/image.png?ex=66cdf4f9&is=66cca379&hm=9459339ed4da9e024d9f3365545af0e886b44226b6b35a6a4d46f915770a1172&"> |
 | ip | <img alt="image" src="https://cdn.discordapp.com/attachments/1249740660127567892/1277656525703217153/image.png?ex=66cdf5dd&is=66cca45d&hm=b287d154ad377979d95bdc70ceffed63cf9c3c48c79d0ec6722a17de2e4a2037&"> |
-| ip | <img alt="image" src="https://cdn.discordapp.com/attachments/1249740660127567892/1277656525703217153/image.png?ex=66cdf5dd&is=66cca45d&hm=b287d154ad377979d95bdc70ceffed63cf9c3c48c79d0ec6722a17de2e4a2037&"> |
+| Transcript Log | <img alt="image" src="https://cdn.discordapp.com/attachments/1249740660127567892/1277656948266762393/image.png?ex=66cdf642&is=66cca4c2&hm=92852a3d8bb6af8b3ad3698389521e5b4b678b06529905df743ab3e5153b71c0&"> |
 </details>
