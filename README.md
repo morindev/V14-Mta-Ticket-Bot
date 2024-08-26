@@ -1,5 +1,5 @@
 # v14-Mta-Bot
-Merhaba, morin ve qwerty tarafından yapılmış mta(Multi Theft Auto: San Andreas) botunu satışa çıkartıyorum
+Merhaba, morin ve qwerty tarafından yapılmış crane nin yardım etiği mta(Multi Theft Auto: San Andreas) botunu satışa çıkartıyorum
 aylık ve altyapı olarak satışa çıkarıyorumdur bilginize.
 Ücretli bot kod altyapı DM!( morindev. )
 
