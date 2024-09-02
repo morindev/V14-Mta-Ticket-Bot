@@ -6,6 +6,7 @@ aylık ve altyapı olarak satışa çıkarıyorumdur bilginize.
 - Daha detaylı bilgi için bana discordan yazabilirsiniz morindev. 692411581572841544
 - Yeni Sistemler hergün güncelleniyor gerekli olanları buraya atıcam detaylar için discordan yazabilirsiniz
 - Sunucuya bağlantılı halide gelecek sunucuda olmadan sunucu için komut kullanabileceksiniz ve rapor bakabileceksiniz.
+
 ![image](https://github.com/user-attachments/assets/628b0d45-9ae0-4ec0-ae53-58eb8d135a2a)
 # Görseller
 <details>
