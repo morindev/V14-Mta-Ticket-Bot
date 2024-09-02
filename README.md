@@ -12,19 +12,19 @@ aylık ve altyapı olarak satışa çıkarıyorumdur bilginize.
  
 | Komut                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| Kurulum | <img alt="image" src= "https://cdn.discordapp.com/attachments/1249740660127567892/1277653008506687529/image.png?ex=66cdf296&is=66cca116&hm=00cb3dee2b35c9fe8b32f4be90690af10e77b8bfe2a8448dc8408b218c7ced8d&"> |
-| Sahiplen | <img alt="image" src= "https://cdn.discordapp.com/attachments/1249740660127567892/1277653497671712778/image.png?ex=66cdf30b&is=66cca18b&hm=3972caecd83b4496b91d4fd3b7fe1b6df3e27af7ba064569a2c16f517559ca50&"> |
-| Destek Kullanıcı Sistemi | <img alt="image" src= "https://media.discordapp.net/attachments/1249740660127567892/1277653921095094303/image.png?ex=66cdf370&is=66cca1f0&hm=c928ac169279a0dbb8f44b49ea2ef424ea00e6fa0344c215fedfbc1b04baf3ab&=&format=webp&quality=lossless&width=380&height=367"> |
-| Stat | <img alt="image" src= "https://cdn.discordapp.com/attachments/1249740660127567892/1277654225656090677/image.png?ex=66cdf3b9&is=66cca239&hm=c2f370186c09e97bb74fec8733765e6e2dcd361f2c582bf71830288612f0dcd2&"> |
-| Top 10 | <img alt="image" src= "https://cdn.discordapp.com/attachments/1249740660127567892/1277654175747936326/image.png?ex=66cdf3ad&is=66cca22d&hm=98a56431495a9024822b8edbc7908c51fce79abe1a631846657226d71138a305&"> |
-| Transcript Log | <img alt="image" src="https://cdn.discordapp.com/attachments/1249740660127567892/1277656948266762393/image.png?ex=66cdf642&is=66cca4c2&hm=92852a3d8bb6af8b3ad3698389521e5b4b678b06529905df743ab3e5153b71c0&"> |
+| Kurulum | <img alt="image" src= "https://github.com/user-attachments/assets/11a2f5d4-0fa6-43c2-97bd-012c27aa984b"> |
+| Sahiplen | <img alt="image" src= "https://github.com/user-attachments/assets/6b79d3ff-eed6-4f1a-9ea2-6d93830a644d"> |
+| Destek Kullanıcı Sistemi | <img alt="image" src= "https://github.com/user-attachments/assets/df8d5c84-3dcc-4d19-9982-b9a30632473a"> |
+| Stat | <img alt="image" src= "https://github.com/user-attachments/assets/95cf8d38-3f2f-4ad7-84b1-43790532b14a"> |
+| Top 10 | <img alt="image" src= "https://github.com/user-attachments/assets/e9fa27f8-b82d-42ee-a5bd-e6362d81633b"> |
+| Transcript Log | <img alt="image" src="https://github.com/user-attachments/assets/1da3cfa2-456d-491f-beb3-030b04bfc092"> |
 </details>
 <details>
   <summary>Komut + Sistem</summary>
 
 | Komut + Sistem                  | Resim                                                                                                  |
 | ---------------------- | ------------------------------------------------------------------------------------------------------ |
-| Aktif | <img alt="image" src= "https://cdn.discordapp.com/attachments/1249740660127567892/1277655571062984714/image.png?ex=66cdf4f9&is=66cca379&hm=9459339ed4da9e024d9f3365545af0e886b44226b6b35a6a4d46f915770a1172&"> |
-| ip | <img alt="image" src="https://cdn.discordapp.com/attachments/1249740660127567892/1277656525703217153/image.png?ex=66cdf5dd&is=66cca45d&hm=b287d154ad377979d95bdc70ceffed63cf9c3c48c79d0ec6722a17de2e4a2037&"> |
-| Durum | <img alt="image" src="https://cdn.discordapp.com/attachments/1249740660127567892/1277660273615962225/image.png?ex=66cdf95b&is=66cca7db&hm=c129ac4ce0f517fa40404849d14d02369b1dd661ecdd57c7c5688428ec28c439&"> |
+| Aktif | <img alt="image" src= "https://github.com/user-attachments/assets/2cd3a94d-6df6-4501-89c1-9b8ed81decae"> |
+| ip | <img alt="image" src="https://github.com/user-attachments/assets/1a15be32-96a6-4510-883d-a61a04e4ca91"> |
+| Durum | <img alt="image" src="https://github.com/user-attachments/assets/c4293d9d-17e8-4423-8438-00f9c72723ca"> |
 </details>
