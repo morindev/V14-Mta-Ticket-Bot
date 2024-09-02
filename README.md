@@ -36,9 +36,7 @@ aylık ve altyapı olarak satışa çıkarıyorumdur bilginize.
 | Blacklist | <img alt="image" src="https://github.com/user-attachments/assets/5a9d0ef1-29ad-43d8-a93b-d413c9ba0c39"> |
 | Herkeserol-ver-al | <img alt="image" src="https://github.com/user-attachments/assets/caf1c877-bfe6-46f1-85e8-01880763df69"> |
 | Bota yazdır | <img alt="image" src="https://github.com/user-attachments/assets/dbf641b6-df8c-4002-bb90-dd5f5eed9e2f"> |
-
-
-
-
+| Kilit | <img alt="image" src="https://github.com/user-attachments/assets/925a9f4a-fd4d-4cc2-8a2a-44e2db9a5cd4"> |
+| Rol-ver-al | <img alt="image" src="https://github.com/user-attachments/assets/7f834f73-f854-4c62-a603-831a40b17edb"> |
 
 </details>
